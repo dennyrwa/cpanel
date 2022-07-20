@@ -1,1 +1,1 @@
-# fooboo.klikada.com
+# cpanel.klikada.com
